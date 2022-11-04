@@ -31,3 +31,8 @@ This is a new section
 +--------+        |
 | Cell 3 | Cell 3 |
 +--------+--------+
+
+Repository_
+
+.. _Repository: https://github.com/sample-nick/demo-repo
+
