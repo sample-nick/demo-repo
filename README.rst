@@ -18,3 +18,6 @@ Some subtitle goes here
         #. just to test
     #. some kinds
 #. of stuffs.
+
+This is a new section
+=====================
