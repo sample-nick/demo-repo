@@ -37,7 +37,7 @@ endobj
 endobj
 7 0 obj
 <<
-/Author (Victor Mauricio Maia Couto) /CreationDate (D:20221104200710+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20221104200710+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author (Victor Mauricio Maia Couto) /CreationDate (D:20221104212104+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20221104212104+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Some title goes here) /Trapped /False
 >>
 endobj
@@ -58,14 +58,15 @@ endobj
 endobj
 11 0 obj
 <<
-/Length 4591
+/Length 4581
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 741.0236 cm
 q
-BT 1 0 0 1 0 4 Tm 137.1349 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Some title goes here) Tj T* -137.1349 0 Td ET
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 137.1349 0 Td (Some title goes here) Tj T* -137.1349 0 Td ET
 Q
 Q
 q
@@ -342,19 +343,19 @@ q
 1 0 0 1 62.69291 423.0236 cm
 Q
 q
-1 0 0 1 62.69291 360.0236 cm
+1 0 0 1 62.69291 369.0236 cm
 1 1 1 rg
-n 0 63 469.8898 -18 re f*
+n 0 54 469.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 45 469.8898 -22.5 re f*
+n 0 36 469.8898 -18 re f*
 1 1 1 rg
-n 0 22.5 469.8898 -22.5 re f*
+n 0 18 469.8898 -18 re f*
 .960784 .960784 .862745 rg
-n 0 63 469.8898 -18 re f*
+n 0 54 469.8898 -18 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 48 cm
+1 0 0 1 6 39 cm
 q
 .960784 .960784 .862745 rg
 n 0 0 457.8898 12 re f*
@@ -366,29 +367,31 @@ Q
 Q
 0 0 0 rg
 q
-1 0 0 1 6 30 cm
+1 0 0 1 6 21 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Cell 1 ) Tj 1 0 0 rg (|) Tj 0 0 0 rg (Cell 2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 6 15 cm
 0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (+-------) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cell 1) Tj T* ET
 Q
 Q
 q
+1 0 0 1 240.9449 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cell 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 240.9449 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cell 3) Tj T* ET
 Q
 Q
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Cell 3 ) Tj 1 0 0 rg (|) Tj 0 0 0 rg (Cell 3) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cell 3) Tj T* ET
 Q
 Q
 q
@@ -396,15 +399,17 @@ q
 1 j
 0 0 0 RG
 .25 w
-n 0 45 m 469.8898 45 l S
-n 0 63 m 469.8898 63 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 234.9449 18 l S
+n 234.9449 0 m 234.9449 36 l S
+n 0 54 m 469.8898 54 l S
 n 0 0 m 469.8898 0 l S
-n 0 0 m 0 63 l S
-n 469.8898 0 m 469.8898 63 l S
+n 0 0 m 0 54 l S
+n 469.8898 0 m 469.8898 54 l S
 Q
 Q
 q
-1 0 0 1 62.69291 360.0236 cm
+1 0 0 1 62.69291 369.0236 cm
 Q
  
 endstream
@@ -433,12 +438,12 @@ xref
 0000001145 00000 n 
 0000001252 00000 n 
 0000001312 00000 n 
-0000005955 00000 n 
-0000005996 00000 n 
+0000005945 00000 n 
+0000005986 00000 n 
 trailer
 <<
 /ID 
-[<1cadc12b3168580ba38eeaa17df49f86><1cadc12b3168580ba38eeaa17df49f86>]
+[<6d5ae562b3d8f29a9046113392339627><6d5ae562b3d8f29a9046113392339627>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 7 0 R
@@ -446,5 +451,5 @@ trailer
 /Size 14
 >>
 startxref
-6030
+6020
 %%EOF

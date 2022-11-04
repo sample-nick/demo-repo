@@ -24,10 +24,10 @@ This is a new section
 
 .. A simple grid table.
 
-+-------+-------+
-|A simple header|
-+=======+=======+
-|Cell 1 |Cell 2 |
-+-------+-------+
-|Cell 3 |Cell 3 |
-+-------+-------+
++--------+--------+
+| A simple header |
++========+========+
+| Cell 1 | Cell 2 |
++--------+        |
+| Cell 3 | Cell 3 |
++--------+--------+
