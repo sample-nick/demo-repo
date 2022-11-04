@@ -11,3 +11,10 @@ Some subtitle goes here
 
 .. Note::
     Some note goes here.
+
+1. Adding some
+    i. interesting text
+        a. on here
+        #. just to test
+    #. some kinds
+#. of stuffs.
