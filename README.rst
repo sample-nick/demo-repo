@@ -18,3 +18,16 @@ Some subtitle goes here
         #. just to test
     #. some kinds
 #. of stuffs.
+
+This is a new section
+=====================
+
+.. A simple grid table.
+
++-------+-------+
+|A simple header|
++=======+=======+
+|Cell 1 |Cell 2 |
++-------+-------+
+|Cell 3 |Cell 3 |
++-------+-------+
